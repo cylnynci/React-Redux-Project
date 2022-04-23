@@ -1,4 +1,4 @@
-#React-Redux-Project
+# React-Redux Project
 
 ![Ekran Görüntüsü (191)](https://user-images.githubusercontent.com/84045109/164947447-6d348fa3-1a6a-4969-bb5d-d24b38e57850.png)
 
